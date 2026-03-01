@@ -14,7 +14,6 @@
 ### 🛠️ CORE_STACK
 * **Primary:** `C++` | `Python` | `Java` | `Go`
 * **Exploring:** `Flutter` | `TypeScript`
-* **Infrastructure:** Server deployment & environment management (Powered by 1Panel)
 
 ### 🔍 RESEARCH_&_INTERESTS
 * **Reverse Engineering:** 游戏逆向工程、底层逻辑剖析与引擎机制研究。
